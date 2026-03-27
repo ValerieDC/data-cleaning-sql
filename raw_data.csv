@@ -1,0 +1,6 @@
+id,name,city,salary,department
+1,Ana Lopez,santo domingo,50000,Sales
+2,Carlos Perez,Santo Domingo,,sales
+3,Maria Ruiz,Santiago,60000,HR
+4,Jose Diaz,santiago,60000,hr
+5,Ana Lopez,Santo Domingo,50000,Sales
